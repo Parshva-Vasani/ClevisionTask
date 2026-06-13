@@ -77,6 +77,10 @@ cd <project-folder>
 
 Alternatively, you can use the VS Code **Live Server** extension for a better development experience.
 
+## AI USED
+
+ChatGpt
+
 ## 🎨 Styling
 
 All styling has been implemented using **Tailwind CSS utility classes**. No custom CSS was written unless absolutely necessary, ensuring consistency and maintainability.
@@ -104,6 +108,8 @@ All styling has been implemented using **Tailwind CSS utility classes**. No cust
 ## © Copyright
 
 © 2026 Clevision Technologies. All rights reserved.
+
+---
 
 Task2
 
@@ -236,6 +242,10 @@ Products that are **in stock** and **priced under ₹10,000**:
 No additional setup or package installation is required.
 
 ---
+
+## AI USED
+
+ChatGpt
 
 ## Future Enhancements
 
