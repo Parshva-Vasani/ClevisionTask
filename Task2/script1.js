@@ -1,5 +1,5 @@
 const products = [
-  { name: "Laptop", price: 45000, inStock: true, category: "electronics" },
+  { name: "Laptop", price: 65000, inStock: true, category: "electronics" },
   { name: "Shirt", price: 1200, inStock: false, category: "clothing" },
   { name: "Phone", price: 25000, inStock: true, category: "electronics" },
   { name: "Shoes", price: 3500, inStock: true, category: "clothing" },
